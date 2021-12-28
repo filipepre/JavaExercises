@@ -4,9 +4,7 @@ Exercicios de Java
 
 Fonte: https://www.explicacoesjava.pt/exercicios/
 
-Exercicio 1:
-
-1. Índice de massa corporal 
+Exercicio 1 - Índice de massa corporal 
 
 Desenvolva um programa que calcule o Índice de Massa Corporal (IMC) do utilizador. Para isso deverá pedir-lhe o seu peso em kg e altura em metros. No final deverá mostrar na consola se o utilizador tem peso a menos, o peso ideal ou excesso de peso.
 
