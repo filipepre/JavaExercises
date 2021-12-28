@@ -30,3 +30,7 @@ Desenvolva um procedimento que recebe um número inteiro como argumento e mostra
 -> Exercicio 4 - Números ímpares
 
 Crie um procedimento que mostre na consola os números ímpares de 1 a 100.
+
+-> Exercicio 5 - Vetor de inteiros 
+
+Desenvolva uma função que constrói um vetor de inteiros, com os números de 0 a 10, e o retorna.
