@@ -26,3 +26,7 @@ Desta forma ficará guardada dentro da variável hora_actual, a hora do dia atua
 -> Exercicio 3 - Mostrar números na consola 
 
 Desenvolva um procedimento que recebe um número inteiro como argumento e mostra na consola todos os números inteiros, até esse número (inclusive). Deve mostrar um número por linha.
+
+-> Exercicio 4 - Números ímpares
+
+Crie um procedimento que mostre na consola os números ímpares de 1 a 100.
