@@ -34,3 +34,7 @@ Crie um procedimento que mostre na consola os números ímpares de 1 a 100.
 -> Exercicio 5 - Vetor de inteiros 
 
 Desenvolva uma função que constrói um vetor de inteiros, com os números de 0 a 10, e o retorna.
+
+-> Exercicio 6 - Mostrar vetor na consola
+
+Implemente um método que, dado um vetor de números inteiros, mostra todo o seu conteúdo na consola no formato "[elemento1 elemento2 elemento3 ...]".
