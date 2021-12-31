@@ -38,3 +38,7 @@ Desenvolva uma função que constrói um vetor de inteiros, com os números de 0
 -> Exercicio 6 - Mostrar vetor na consola
 
 Implemente um método que, dado um vetor de números inteiros, mostra todo o seu conteúdo na consola no formato "[elemento1 elemento2 elemento3 ...]".
+
+-> Exercicio 7 - Matriz de carateres
+
+Desenvolva uma função que recebe um carater, um número de linhas e colunas como argumento, e devolve uma matriz do tamanho dado pelo número de linhas e colunas, preenchida com o carater recebido.
